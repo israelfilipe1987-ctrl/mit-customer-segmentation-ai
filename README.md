@@ -9,7 +9,7 @@ The project addresses the inefficiency of "one-size-fits-all" mass marketing by 
 
 ## 📊 Business Presentation
 An executive-level Data Storytelling slide deck was prepared to translate statistical metrics into data-driven marketing strategies.
-* 📂 **[View the Final Presentation Slides (PDF)](./presentation/05052026_CAPSTONE%20_APPLIED_AI_DATA_SCIENCE_FINAL_Israel_Filipe_Silva_2.pdf)**
+* 📂 **[View the Final Presentation Slides (PDF)](./presentation/05052026_CAPSTONE_APPLIED_AI_DATA_SCIENCE_FINAL_Israel_Filipe_Silva.pdf)**
 
 ---
 
